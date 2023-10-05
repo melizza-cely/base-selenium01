@@ -1,0 +1,1 @@
+Este proyecto es de prueba, para aprender pruebas automatizadas con Selenium.
